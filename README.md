@@ -1,7 +1,7 @@
 # Hi 👋, I'm Suryansh Dubey
 
 ## Student
-Enthusiastic student with a passion for coding, exploring the possibilities of tech. Open to collaboration and eager to learn.
+Enthusiastic student who is new to coding, exploring the possibilities of tech. Learning something new everyday.
 
 - 🌍 I'm based in Bhopal
 - ✉️ You can contact me at [suryanshdubey2525@gmail.com](mailto:suryanshdubey2525@gmail.com)
