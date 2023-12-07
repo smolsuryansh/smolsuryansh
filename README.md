@@ -32,7 +32,7 @@ Enthusiastic student who is new to coding, exploring the possibilities of tech. 
 **My GitHub Stats**
 
 <a href="http://www.github.com/smolsuryansh">
-    <img src="https://github-readme-stats.vercel.app/api?username=smolsuryansh&show_icons=true&hide=&count_private=true&title_color=faab00&text_color=ffffff&icon_color=eb9205&bg_color=333&hide_border=true&show_icons=true" alt="smolsuryansh's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=smolsuryansh&show_icons=true&hide=&count_private=true&title_color=faab00&text_color=ffffff&icon_color=eb9205&bg_color=1c1917&hide_border=true&show_icons=true" alt="smolsuryansh's GitHub stats" />
 </a>
 
 <a href="http://www.github.com/smolsuryansh">
