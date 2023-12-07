@@ -26,6 +26,7 @@ Enthusiastic student who is new to coding, exploring the possibilities of tech. 
     <a href="https://www.linkedin.com/in/suryansh-dubey-271418285/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
+
 ### Badges
 
 **My GitHub Stats**
@@ -35,5 +36,5 @@ Enthusiastic student who is new to coding, exploring the possibilities of tech. 
 </a>
 
 <a href="http://www.github.com/smolsuryansh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=smolsuryansh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=smolsuryansh&stroke=ffffff&background=1c1917&ring=eb9205&fire=eb9205&currStreakNum=ffffff&currStreakLabel=eb9205&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
