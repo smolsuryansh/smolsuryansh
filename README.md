@@ -1,39 +1,22 @@
 # Hi 👋, I'm Suryansh Dubey
 
-## Student
-Enthusiastic student who is new to coding, exploring the possibilities of tech. Learning something new everyday.
-
-- 🌍 I'm based in Bhopal
-- ✉️ You can contact me at [suryanshdubey2525@gmail.com](mailto:suryanshdubey2525@gmail.com)
-- 🧠 I'm learning Java and Python
-- 🤝 I'm open to collaborating on projects
-
-### Skills
-
-<p align="left">
-    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-    <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-</p>
-
-### Socials
-
-<p align="left">
-    <a href="https://discord.com/users/smol_hammy_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-    <a href="https://www.github.com/smolsuryansh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-    <a href="http://www.instagram.com/smol_hammy_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-    <a href="https://www.linkedin.com/in/suryansh-dubey-271418285/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
+# 💫 About Me:
+🌍 I'm based in Bhopal<br>✉️ You can contact me at suryanshdubey2525@gmail.com<br>🧠 I'm learning Java and Python<br>🤝 I'm open to collaborating on projects<br>
 
 
-### Badges
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/smol_hammy_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smol_hammy_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suryansh-dubey-271418285) 
 
-**My GitHub Stats**
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=smolsuryansh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=smolsuryansh&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=smolsuryansh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="http://www.github.com/smolsuryansh">
-    <img src="https://github-readme-stats.vercel.app/api?username=smolsuryansh&show_icons=true&hide=&count_private=true&title_color=faab00&text_color=ffffff&icon_color=eb9205&bg_color=1c1917&hide_border=true&show_icons=true" alt="smolsuryansh's GitHub stats" />
-</a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=smolsuryansh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<a href="http://www.github.com/smolsuryansh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=smolsuryansh&stroke=ffffff&background=1c1917&ring=eb9205&fire=eb9205&currStreakNum=ffffff&currStreakLabel=eb9205&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+---
+[![](https://visitcount.itsvg.in/api?id=smolsuryansh&icon=5&color=6)](https://visitcount.itsvg.in)
+
