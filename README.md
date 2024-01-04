@@ -16,6 +16,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=smolsuryansh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=smolsuryansh&icon=5&color=6)](https://visitcount.itsvg.in)
+
 
