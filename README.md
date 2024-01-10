@@ -11,8 +11,18 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=smolsuryansh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=smolsuryansh&theme=dark&hide_border=false)<br/>
+<div align="center">
+
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=smolsuryansh&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
+  </div>
+
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=smolsuryansh&theme=dark&hide_border=false">
+  </div>
+
+</div>
+
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smolsuryansh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 
