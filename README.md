@@ -17,9 +17,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=smolsuryansh&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
   </div>
 
-  <!-- <div>
+  <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=smolsuryansh&theme=dark&hide_border=false">
-  </div> -->
+</div>
 
 </div>
 
