@@ -1,7 +1,7 @@
 # Hi 👋, I'm Suryansh Dubey
 
 # 💫 About Me:
-🌍 I'm based in Bhopal<br>✉️ You can contact me at suryanshdubey2525@gmail.com<br>🧠 I'm currently learning DevOps and Data Structures And Algorithms in Java<br>🤝 I'm open to collaborating on projects<br>
+🌍 I'm based in Bhopal<br>✉️ You can contact me at suryanshdubey2525@gmail.com<br>🧠 I'm currently learning DevOps and Data Structures And Algorithms Using Java<br>🤝 I'm open to collaborating on projects<br>
 
 
 ## 🌐 Socials:
