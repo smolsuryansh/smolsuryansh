@@ -25,5 +25,15 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smolsuryansh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
+# 💻📊 Leetcode:
+
+<!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/smolhammy)](https://leetcode.com/smolhammy) -->
+
+<div align="center">
+  <a href="https://leetcode.com/smolhammy">
+    <img src="https://leetcard.jacoblin.cool/smolhammy" alt="Leetcode Stats">
+  </a>
+</div>
+
 
 
