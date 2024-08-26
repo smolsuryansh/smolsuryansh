@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/smolhammy">
-    <img src="https://leetcard.jacoblin.cool/smolhammy?theme=nord" alt="Leetcode Stats">
+    <img src="https://leetcard.jacoblin.cool/smolhammy?theme=dark" alt="Leetcode Stats">
   </a>
 </div>
 
