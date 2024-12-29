@@ -30,7 +30,7 @@
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/smolhammy)](https://leetcode.com/smolhammy) -->
 
 <div align="center">
-  <a href="https://leetcode.com/smolhammy" target="_black">
+  <a href="https://leetcode.com/smolhammy" target="_black" rel="noopener noreferrer">
     <img src="https://leetcard.jacoblin.cool/smolhammy?theme=dark" alt="Leetcode Stats">
   </a>
 </div>
